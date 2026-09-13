@@ -1,2 +1,1 @@
-# hola-mundo
-Practica y primeros pasos.
+Repositorio con el objetivo de documentar mi aprendizaje a traves de practicas en los diferentes lenguajes de programacion que decida aprender.
